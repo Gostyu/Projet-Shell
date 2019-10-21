@@ -1,4 +1,5 @@
-Création d'un shell
+#Création d'un shell
+(Projet Semestre 4 (2017-2018) en programmation C et système d'exploitation)
 
 Ce que je n'ai pas réussi à faire :
 - la gestion des filtres
